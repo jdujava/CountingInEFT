@@ -1,5 +1,11 @@
 # Counting operators in Effective Field Theories
-Bachelor Thesis
+
+I wrote my bachelor thesis at Charles University (also see [additional information](#thesis-information)). The main purpose of this repository is to provide the [accompanying `Mathematica notebook`](#accompanying-mathematica-notebook).
+
+![dual1](https://user-images.githubusercontent.com/19737748/185472953-90eb8a5b-f098-4be4-9ea7-86a7dfe70dba.png)
+![dual2](https://user-images.githubusercontent.com/19737748/185472956-4e6b1275-c334-40f9-9672-73aa4a815fb2.png)
+![dual3](https://user-images.githubusercontent.com/19737748/185472960-1698f524-f867-430a-ad3a-455973a7588c.png)
+![dual4](https://user-images.githubusercontent.com/19737748/185472963-b27635fe-110e-4c26-b1bf-27c4020d156d.png)
 
 ## Thesis information
 
@@ -15,3 +21,7 @@ Bachelor Thesis
 
 **Keywords**: Classical field theory, Effective field theory, Group theory, Lie groups,
 Representation theory, Schur character orthogonality relations, Hilbert series
+
+## Accompanying `Mathematica notebook`
+
+The actual computations of Hilbert series are usually *gigantic*, and can be found in the notebook `CountingInEFT.nb`. It was written using `Mathematica 13.0`.

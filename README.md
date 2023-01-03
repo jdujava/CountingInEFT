@@ -24,4 +24,4 @@ Representation theory, Schur character orthogonality relations, Hilbert series
 
 ## Accompanying `Mathematica notebook`
 
-The actual computations of Hilbert series are usually *gigantic*, and can be found in the notebook `CountingInEFT.nb`. It was written using `Mathematica 13.0`.
+The actual computations of Hilbert series are usually *gigantic*, and can be found in the notebook `CountingInEFT.nb`, written using `Mathematica 13.2`. It is featured in [Wolfram Community](https://community.wolfram.com/) forum, see [Counting operators in Effective Field Theories](https://community.wolfram.com/groups/-/m/t/2757059), but it is better to download it and view it locally.

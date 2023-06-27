@@ -1,7 +1,16 @@
 # Counting operators in Effective Field Theories
 
-I wrote my bachelor thesis at Charles University (also see [additional information](#thesis-information)). The main purpose of this repository is to provide the [accompanying `Mathematica notebook`](#accompanying-mathematica-notebook).
+I wrote my bachelor thesis at Charles University (for additional information see [thesis information](#thesis-information)).\
+It can also be found on $\textsf{arXiv}$ [2211.05759 [hep-th]](https://arxiv.org/abs/2211.05759), and $\textsf{inSpire-HEP}$ [2180439](https://inspirehep.net/literature/2180439).
 
+The main purpose of this repository is to provide the [accompanying Mathematica notebook](#accompanying-texttt-mathematica-notebook). 
+
+More convenient links to view (and download) the PDF files: 
+- the revised version of the thesis — [CountingInEFT.pdf](https://jdujava.github.io/CountingInEFT/CountingInEFT.pdf)
+- the original version of the thesis — [CountingInEFT_original_version.pdf](https://jdujava.github.io/CountingInEFT/CountingInEFT_original_version.pdf)
+- the presentation for the seminar — [CountingInEFT_presentation.pdf](https://jdujava.github.io/CountingInEFT/CountingInEFT_presentation.pdf)
+
+## Quick preview
 ![dual1](https://user-images.githubusercontent.com/19737748/185472953-90eb8a5b-f098-4be4-9ea7-86a7dfe70dba.png)
 ![dual2](https://user-images.githubusercontent.com/19737748/185472956-4e6b1275-c334-40f9-9672-73aa4a815fb2.png)
 ![dual3](https://user-images.githubusercontent.com/19737748/185472960-1698f524-f867-430a-ad3a-455973a7588c.png)
@@ -22,6 +31,6 @@ I wrote my bachelor thesis at Charles University (also see [additional informati
 **Keywords**: Classical field theory, Effective field theory, Group theory, Lie groups,
 Representation theory, Schur character orthogonality relations, Hilbert series
 
-## Accompanying `Mathematica notebook`
+## Accompanying $\texttt{ Mathematica notebook}$
 
 The actual computations of Hilbert series are usually *gigantic*, and can be found in the notebook `CountingInEFT.nb`, written using `Mathematica 13.2`. It is featured in [Wolfram Community](https://community.wolfram.com/) forum, see [Counting operators in Effective Field Theories](https://community.wolfram.com/groups/-/m/t/2757059), but it is better to download it and view it locally.
